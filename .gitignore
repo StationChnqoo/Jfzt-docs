@@ -1,0 +1,29 @@
+# Node.js dependencies
+/node_modules/
+
+# Docusaurus build output
+/build/
+
+# Docusaurus cache files
+/.docusaurus/
+
+# .env file containing sensitive information (optional)
+.env
+
+# npm package lock file (optional, depends on your workflow)
+package-lock.json
+yarn.lock
+
+# Temporary files
+.DS_Store
+*.log
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+desktop.ini
